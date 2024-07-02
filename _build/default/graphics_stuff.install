@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/graphics_stuff/META"
+  "_build/install/default/lib/graphics_stuff/dune-package"
+  "_build/install/default/lib/graphics_stuff/opam"
+]
+bin: [
+  "_build/install/default/bin/graphics_stuff"
+]

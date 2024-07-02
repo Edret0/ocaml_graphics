@@ -1,0 +1,4 @@
+(executable
+ (public_name graphics_stuff)
+ (name main)
+ (libraries graphics_stuff))
